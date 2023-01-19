@@ -5,7 +5,7 @@ on:
     branches:
       - 'main'
       
-      env:
+  env:
   IMAGE_REPOSITORY_NAME: brezyweather
   IMAGE_TAG: 1.0.0
   
